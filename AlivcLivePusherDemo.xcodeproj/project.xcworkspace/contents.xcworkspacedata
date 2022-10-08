@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../AlivcLivePusherDemo/TiSDK_iOS"
+      name = "TiSDK_iOS">
+      <Group
+         location = "group:TiUILive"
+         name = "TiUILive">
+         <FileRef
+            location = "group:TiUIDefaultButtonView.h">
+         </FileRef>
+         <Group
+            location = "group:TiUIVIew"
+            name = "TiUIVIew">
+            <FileRef
+               location = "group:TiUIMainMenuView.m">
+            </FileRef>
+            <Group
+               location = "group:TiUISubMenuView"
+               name = "TiUISubMenuView">
+               <FileRef
+                  location = "group:TiUISubMenuTowViewCell.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUIMenuTowViewCell.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUIMenuThreeViewCell.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUISubMenuOneViewCell.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUIMenuOneViewCell.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUISubMenuThreeViewCell.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUIMenuTowViewCell.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUISubMenuTowViewCell.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUIMenuThreeViewCell.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUISubMenuThreeViewCell.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUIMenuOneViewCell.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUISubMenuOneViewCell.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:TiUIMenuViewCell.h">
+            </FileRef>
+            <FileRef
+               location = "group:TiUIMainMenuView.h">
+            </FileRef>
+            <Group
+               location = "group:TiUISlider"
+               name = "TiUISlider">
+               <FileRef
+                  location = "group:TiUISliderRelatedView.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUISliderNew.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUISliderRelatedView.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TiUISliderNew.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:TiUIMenuViewCell.m">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:TiUIManager.m">
+         </FileRef>
+         <Group
+            location = "group:TiUITool"
+            name = "TiUITool">
+            <Group
+               location = "group:Masonry.framework"
+               name = "Masonry.framework">
+               <Group
+                  location = "group:PrivateHeaders"
+                  name = "PrivateHeaders">
+                  <FileRef
+                     location = "group:MASConstraint+Private.h">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Masonry">
+               </FileRef>
+               <Group
+                  location = "group:Headers"
+                  name = "Headers">
+                  <FileRef
+                     location = "group:MASCompositeConstraint.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MASLayoutConstraint.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSArray+MASShorthandAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MASConstraintMaker.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:View+MASAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSArray+MASAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MASUtilities.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MASViewAttribute.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MASViewConstraint.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MASConstraint.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSLayoutConstraint+MASDebugAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:View+MASShorthandAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Masonry.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ViewController+MASAdditions.h">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Modules"
+                  name = "Modules">
+                  <FileRef
+                     location = "group:module.modulemap">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:TIHaHaJingMenu.json">
+            </FileRef>
+            <FileRef
+               location = "group:greenscreens.json">
+            </FileRef>
+            <FileRef
+               location = "group:gifts.json">
+            </FileRef>
+            <Group
+               location = "group:ZipArchive.framework"
+               name = "ZipArchive.framework">
+               <Group
+                  location = "group:Headers"
+                  name = "Headers">
+                  <FileRef
+                     location = "group:ZipArchive.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SSZipArchive.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SSZipCommon.h">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:ZipArchive">
+               </FileRef>
+               <Group
+                  location = "group:Modules"
+                  name = "Modules">
+                  <FileRef
+                     location = "group:module.modulemap">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:TIMenuPlistManager.h">
+            </FileRef>
+            <FileRef
+               location = "group:TiSDKResourceManager.h">
+            </FileRef>
+            <FileRef
+               location = "group:TIMenu.json">
+            </FileRef>
+            <FileRef
+               location = "group:TIConfig.h">
+            </FileRef>
+            <FileRef
+               location = "group:TIButton.m">
+            </FileRef>
+            <FileRef
+               location = "group:TISetSDKParameters.h">
+            </FileRef>
+            <FileRef
+               location = "group:TIDownloadZipManager.h">
+            </FileRef>
+            <FileRef
+               location = "group:stickers.json">
+            </FileRef>
+            <FileRef
+               location = "group:TIUITool.h">
+            </FileRef>
+            <FileRef
+               location = "group:TIMenuPlistManager.m">
+            </FileRef>
+            <FileRef
+               location = "group:masks.json">
+            </FileRef>
+            <FileRef
+               location = "group:TIDouDongMenu.json">
+            </FileRef>
+            <FileRef
+               location = "group:watermarks.json">
+            </FileRef>
+            <FileRef
+               location = "group:TIMeiXingMenu.json">
+            </FileRef>
+            <FileRef
+               location = "group:TiSDKResourceManager.m">
+            </FileRef>
+            <FileRef
+               location = "group:TIDownloadZipManager.m">
+            </FileRef>
+            <FileRef
+               location = "group:TISetSDKParameters.m">
+            </FileRef>
+            <FileRef
+               location = "group:TIButton.h">
+            </FileRef>
+            <FileRef
+               location = "group:TIMeiYanMenu.json">
+            </FileRef>
+            <FileRef
+               location = "group:TIUITool.m">
+            </FileRef>
+            <FileRef
+               location = "group:TILvJingMenu.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:TiUIIcon"
+            name = "TiUIIcon">
+            <FileRef
+               location = "group:ic_ti_filter_3.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_23.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_37.png">
+            </FileRef>
+            <FileRef
+               location = "group:shoulian_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:xianming_normal.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_36.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_22.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_2.png">
+            </FileRef>
+            <FileRef
+               location = "group:drag@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_0.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_34.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_20.png">
+            </FileRef>
+            <FileRef
+               location = "group:chin_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:square face_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:thin face_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_21.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_35.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_1.png">
+            </FileRef>
+            <FileRef
+               location = "group:baohedu_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:baohedu_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_5.png">
+            </FileRef>
+            <FileRef
+               location = "group:thin face_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_31.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_25.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_19.png">
+            </FileRef>
+            <FileRef
+               location = "group:square face_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:chin_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_18.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_24.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_30.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_4.png">
+            </FileRef>
+            <FileRef
+               location = "group:drag@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_6.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_26.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_32.png">
+            </FileRef>
+            <FileRef
+               location = "group:shoulian_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:xianming_selected.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_33.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_27.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_7.png">
+            </FileRef>
+            <FileRef
+               location = "group:yanjiao_selected.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_download@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_shexiangtou@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:chin_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_40.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_open@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_6.png">
+            </FileRef>
+            <FileRef
+               location = "group:yanju_selected.png">
+            </FileRef>
+            <FileRef
+               location = "group:whitening_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_7.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_41.png">
+            </FileRef>
+            <FileRef
+               location = "group:changbi_selected.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_43.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_10.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_5.png">
+            </FileRef>
+            <FileRef
+               location = "group:thin face_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:pink_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_4.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_42.png">
+            </FileRef>
+            <FileRef
+               location = "group:luminance_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:bigeyes_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:bigeyes_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:luminance_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_46.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_0.png">
+            </FileRef>
+            <FileRef
+               location = "group:pink_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:thin face_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_1.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_47.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_45.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_3.png">
+            </FileRef>
+            <FileRef
+               location = "group:whitening_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_2.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_open@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:chin_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_50.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_44.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_download@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_shexiangtou@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:alien_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_49.png">
+            </FileRef>
+            <FileRef
+               location = "group:shoubi_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_close@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_48.png">
+            </FileRef>
+            <FileRef
+               location = "group:wu_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:forehead_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:shoulian_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:tooth_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:mouth_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:bigeyes_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:zhailian_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:shoubi_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:whitening_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:mopi_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:zhailian_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:zhailian_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:mopi_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:whitening_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_9.png">
+            </FileRef>
+            <FileRef
+               location = "group:shoubi_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:zhailian_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:bigeyes_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:mouth_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:shoulian_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:tooth_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_rock_8.png">
+            </FileRef>
+            <FileRef
+               location = "group:wu_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:forehead_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_close@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:shoubi_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:alien_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:tooth_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:yanjiao_normal.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_16.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_border_selected.png">
+            </FileRef>
+            <FileRef
+               location = "group:square face_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_17.png">
+            </FileRef>
+            <FileRef
+               location = "group:wu_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:luminance_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:forehead_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_9.png">
+            </FileRef>
+            <FileRef
+               location = "group:dot@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_29.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_15.png">
+            </FileRef>
+            <FileRef
+               location = "group:mopi_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:pear face_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:compare@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:pear face_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:alien_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_take photo@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:baohedu_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:wu_selected.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_meiyan@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:pink_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_14.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_28.png">
+            </FileRef>
+            <FileRef
+               location = "group:mouth_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_8.png">
+            </FileRef>
+            <FileRef
+               location = "group:changbi_normal.png">
+            </FileRef>
+            <FileRef
+               location = "group:mouth_normal@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_10.png">
+            </FileRef>
+            <FileRef
+               location = "group:pink_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_38.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_meiyan@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:baohedu_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:btn_take photo@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:alien_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:pear face_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:compare@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:pear face_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:mopi_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_39.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_11.png">
+            </FileRef>
+            <FileRef
+               location = "group:dot@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:forehead_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:luminance_normal@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:wu_selected@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_13.png">
+            </FileRef>
+            <FileRef
+               location = "group:square face_selected@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:wu_normal.png">
+            </FileRef>
+            <FileRef
+               location = "group:yanju_normal.png">
+            </FileRef>
+            <FileRef
+               location = "group:ic_ti_filter_12.png">
+            </FileRef>
+            <FileRef
+               location = "group:tooth_selected@2x.png">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:TiUIDefaultButtonView.m">
+         </FileRef>
+         <FileRef
+            location = "group:TiUIManager.h">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:TiLiveLib"
+         name = "TiLiveLib">
+         <FileRef
+            location = "group:libTiLiveLib.a">
+         </FileRef>
+         <Group
+            location = "group:Headers"
+            name = "Headers">
+            <FileRef
+               location = "group:TiLiveView.h">
+            </FileRef>
+            <FileRef
+               location = "group:TiSDKInterface.h">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:TiSDKResource.bundle">
+      </FileRef>
+      <Group
+         location = "group:opencv2.framework"
+         name = "opencv2.framework">
+         <FileRef
+            location = "group:Resources">
+         </FileRef>
+         <Group
+            location = "group:Versions"
+            name = "Versions">
+            <Group
+               location = "group:A"
+               name = "A">
+               <Group
+                  location = "group:Resources"
+                  name = "Resources">
+                  <FileRef
+                     location = "group:Info.plist">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Headers"
+                  name = "Headers">
+                  <FileRef
+                     location = "group:imgproc.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:video"
+                     name = "video">
+                     <FileRef
+                        location = "group:tracking.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:tracking_c.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:background_segm.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:video.hpp">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:world.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:shape"
+                     name = "shape">
+                     <FileRef
+                        location = "group:emdL1.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:shape_distance.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:shape_transformer.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:shape.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:hist_cost.hpp">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:calib3d.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:flann"
+                     name = "flann">
+                     <FileRef
+                        location = "group:composite_index.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:dist.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:hdf5.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:kdtree_index.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:params.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:simplex_downhill.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:linear_index.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:lsh_index.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:config.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:kmeans_index.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:autotuned_index.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:general.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:matrix.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:index_testing.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:defines.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:saving.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:timer.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:lsh_table.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:dynamic_bitset.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:ground_truth.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:allocator.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:kdtree_single_index.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:flann.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:object_factory.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:result_set.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:all_indices.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:heap.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:flann_base.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:sampling.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:miniflann.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:logger.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:hierarchical_clustering_index.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:dummy.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:any.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:random.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:nn_index.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:core"
+                     name = "core">
+                     <FileRef
+                        location = "group:cuda_types.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:utility.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:ippasync.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:cvstd.inl.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:bufferpool.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:optim.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:cvdef.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:traits.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:opengl.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:cuda.inl.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:eigen.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:cuda_stream_accessor.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:ocl.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:cuda.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:affine.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:mat.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:sse_utils.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:private.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:version.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:ocl_genbase.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:matx.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:directx.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:base.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:operations.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:persistence.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:mat.inl.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:ptr.inl.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:types_c.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:cvstd.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:private.cuda.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:types.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:core_c.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:core.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:wimage.hpp">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:stitching"
+                     name = "stitching">
+                     <FileRef
+                        location = "group:warpers.hpp">
+                     </FileRef>
+                     <Group
+                        location = "group:detail"
+                        name = "detail">
+                        <FileRef
+                           location = "group:autocalib.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:warpers.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:exposure_compensate.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:util_inl.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:seam_finders.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:timelapsers.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:blenders.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:warpers_inl.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:util.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:matchers.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:motion_estimators.hpp">
+                        </FileRef>
+                        <FileRef
+                           location = "group:camera.hpp">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <FileRef
+                     location = "group:opencv.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:imgproc"
+                     name = "imgproc">
+                     <FileRef
+                        location = "group:imgproc.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:imgproc_c.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:types_c.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:objdetect"
+                     name = "objdetect">
+                     <FileRef
+                        location = "group:detection_based_tracker.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:objdetect.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:objdetect_c.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:hal"
+                     name = "hal">
+                     <FileRef
+                        location = "group:intrin.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:defs.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:intrin_neon.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:intrin_cpp.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:intrin_sse.hpp">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:highgui.hpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:features2d.hpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shape.hpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:videostab.hpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:cvconfig.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:photo.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:ml"
+                     name = "ml">
+                     <FileRef
+                        location = "group:ml.hpp">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:flann.hpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:objdetect.hpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:video.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:imgcodecs"
+                     name = "imgcodecs">
+                     <FileRef
+                        location = "group:ios.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:imgcodecs.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:imgcodecs_c.h">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:imgcodecs.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:videoio"
+                     name = "videoio">
+                     <FileRef
+                        location = "group:cap_ios.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:videoio.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:videoio_c.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:highgui"
+                     name = "highgui">
+                     <FileRef
+                        location = "group:highgui.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:highgui_c.h">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:ml.hpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:hal.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:features2d"
+                     name = "features2d">
+                     <FileRef
+                        location = "group:features2d.hpp">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:videoio.hpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stitching.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:videostab"
+                     name = "videostab">
+                     <FileRef
+                        location = "group:fast_marching.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:inpainting.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:motion_core.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:motion_stabilizing.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:stabilizer.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:frame_source.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:wobble_suppression.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:fast_marching_inl.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:ring_buffer.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:deblurring.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:log.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:global_motion.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:outlier_rejection.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:optical_flow.hpp">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:opencv_modules.hpp">
+                  </FileRef>
+                  <Group
+                     location = "group:photo"
+                     name = "photo">
+                     <FileRef
+                        location = "group:cuda.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:photo_c.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:photo.hpp">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:calib3d"
+                     name = "calib3d">
+                     <FileRef
+                        location = "group:calib3d.hpp">
+                     </FileRef>
+                     <FileRef
+                        location = "group:calib3d_c.h">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:core.hpp">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:opencv2">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Current">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Headers">
+         </FileRef>
+         <FileRef
+            location = "group:opencv2">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
