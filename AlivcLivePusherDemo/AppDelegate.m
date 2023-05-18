@@ -34,7 +34,7 @@
     
     //todo --- HTEffect start1 ---
 //    #error 需要HTEffect appid，与包名绑定，请联系商务获取
-    [[HTEffect shareInstance] initHTEffect:HTAppId withDelegate:nil];
+    [[HTEffect shareInstance] initHTEffect:@"" withDelegate:nil];
     //todo --- HTEffect end ---
     
     [AlivcLivePusher showDebugView];
