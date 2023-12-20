@@ -16,7 +16,7 @@
 #import <AlivcLibFace/AlivcLibFaceManager.h>
 #import <ALivcLibBeauty/AlivcLibBeautyManager.h>
 
-//todo --- HTEffect start0 ---
+//todo --- HTEffect start2 ---
 #import "HTUIManager.h"
 #import <HTEffect/HTEffectInterface.h>
 //todo --- HTEffect end ---
@@ -108,7 +108,7 @@ int64_t getCurrentTimeUs()
     
     [UIApplication sharedApplication].idleTimerDisabled = YES;
     
-    //todo --- HTEffect start2 ---
+    //todo --- HTEffect start3 ---
     [[HTUIManager shareManager] loadToWindowDelegate:nil];
     [self.view addSubview:[HTUIManager shareManager].defaultButton];
     //todo --- HTEffect end ---
@@ -693,12 +693,13 @@ int64_t getCurrentTimeUs()
 {
 //    return [[AlivcLibBeautyManager shareManager] process:texture width:width height:height extra:extra];
     
+    //todo --- HTEffect start4 ---
     if (!_isRenderInit) {
         [[HTEffect shareInstance] releaseTextureRenderer];
         _isRenderInit = [[HTEffect shareInstance] initTextureRenderer:width height:height rotation:HTRotationClockwise0 isMirror:NO maxFaces:5];
     }
     return [[HTEffect shareInstance] processTexture:texture];
-    
+    //todo --- HTEffect end ---
 }
 /**
  通知外置滤镜销毁回调

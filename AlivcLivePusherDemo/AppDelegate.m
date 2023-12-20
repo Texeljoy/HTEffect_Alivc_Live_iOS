@@ -12,7 +12,6 @@
 #import <AlivcLivePusher/AlivcLivePusherHeader.h>
 
 //todo --- HTEffect start0 ---
-#import "HTUIManager.h"
 #import <HTEffect/HTEffectInterface.h>
 //todo --- HTEffect end ---
 
@@ -33,8 +32,8 @@
     self.window.rootViewController = viewControllerNC;
     
     //todo --- HTEffect start1 ---
-    #error 需要HTEffect appid，与包名绑定，请联系商务获取
-    [[HTEffect shareInstance] initHTEffect:@"" withDelegate:nil];
+    # error 需要HTEffect appid，与包名绑定，请联系商务获取
+    [[HTEffect shareInstance] initHTEffect:@"Your AppId" withDelegate:nil];
     //todo --- HTEffect end ---
     
     [AlivcLivePusher showDebugView];
